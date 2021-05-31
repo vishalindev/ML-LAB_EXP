@@ -4,7 +4,7 @@
 ## This Repo has created to host my ML Lab Experiments.
 
 ## This Repo consist List of the following supervised learning algorithm experiments.
-1. [FIND-S Algorithm ](blob/main/find-S-algorithm/find-s.md)
+1. [FIND-S Algorithm ](/find-S-algorithm/find-s.md)
 2. Candidate Elimination Algorithm
 3. Naive Bayes Algorithm
 4. ID3 (Iterative Dichotomiser 3) Algorithm
