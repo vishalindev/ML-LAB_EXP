@@ -5,11 +5,11 @@
 
 ## This Repo consist List of the following supervised learning algorithm experiments.
 1. [FIND-S Algorithm ](/find-S-algorithm/find-s.md)
-![](images/id3_out.png) 
 3. Candidate Elimination Algorithm
 4. Naive Bayes Algorithm
-5. ID3 (Iterative Dichotomiser 3) Algorithm
-6. K-Nearest Neighbors Algorithm
+5. [ID3 (Iterative Dichotomiser 3) Algorithm](/ID3/id3_info.md)
+![](images/id3_out.png) 
+7. K-Nearest Neighbors Algorithm
 
 
 
